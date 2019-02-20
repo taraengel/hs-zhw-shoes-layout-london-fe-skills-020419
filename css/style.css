@@ -302,4 +302,24 @@ footer a {
   text-decoration: underline;
 }
 
+.column {
+  width: 31%;
+  display: inline-block;
+}
+
+.small {
+  width: 30%;
+  padding: 10px;
+}
+
+.med {
+  width: 60%;
+  padding: 10px;
+}
+
+.container {
+  width: 110;
+  display: inline-block;
+  /**/look at clearing?? and float 
+}
 /* code examples copyright Jonathan Grover 2012 */
